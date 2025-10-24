@@ -45,7 +45,7 @@ export default function Home() {
               When things break, <span className="text-primary">fix them fast</span>
             </h1>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto text-balance">
-              Your AI co-pilot that learns from past incidents and helps your team solve problems in minutes, not hours.
+              Your AI Assistant that learns from past incidents and helps your team solve problems in minutes, not hours.
             </p>
           </div>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -102,7 +102,7 @@ export default function Home() {
       <section className="py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center space-y-4 mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold">Meet your incident co-pilot</h2>
+            <h2 className="text-3xl md:text-4xl font-bold">Meet your incident assistant</h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
               LogiScout learns from your past incidents and helps your team respond smarter, faster.
             </p>
