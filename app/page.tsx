@@ -249,6 +249,8 @@ export default function Home() {
             </Button> */}
           </div>
           <p className="text-sm opacity-75">Launching Q1 2026 • Open source • MIT License</p>
+          <p className="text-sm opacity-75">Launching Q1 2026 • Open source • MIT License</p>
+
         </div>
       </section>
 

@@ -1,0 +1,10 @@
+[2025-10-31T11:50:45.116Z] [stdout] > my-v0-project@0.1.0 next:dev
+> next dev
+[2025-10-31T11:50:46.209Z] [stdout] ▲ Next.js 16.0.0 (Turbopack)
+[2025-10-31T11:50:46.210Z] [stdout] - Local:        http://localhost:3000
+[2025-10-31T11:50:46.211Z] [stdout] - Network:      http://172.23.96.1:3000
+[2025-10-31T11:50:46.212Z] [stdout] ✓ Starting...
+[2025-10-31T11:50:47.240Z] [stdout] ✓ Ready in 1109ms
+[2025-10-31T11:50:50.317Z] [stdout] ○ Compiling / ...
+[2025-10-31T11:50:52.829Z] [stdout] GET / 200 in 5.5s (compile: 4.7s, render: 799ms)
+[2025-10-31T11:51:17.162Z] [stdout] GET / 200 in 513ms (compile: 19ms, render: 494ms)
